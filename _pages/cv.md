@@ -11,7 +11,7 @@ redirect_from:
 
 Profile
 ======
-
+<div style="text-align: justify">
 I am a specialist in Genomic Sciences, I have guided myself to acquire skills in experimental work and bioinformatics on interesting topics learning from admirable people. I am really motivated to participate in new challenging projects, to achieve my goals I work hard and independently.
 
 Education
@@ -101,3 +101,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+</div>
