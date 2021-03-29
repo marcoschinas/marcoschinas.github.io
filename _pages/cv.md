@@ -9,32 +9,76 @@ redirect_from:
 
 {% include base_path %}
 
+Profile
+======
+
+I am a specialist in Genomic Sciences, I have guided myself to acquire skills in experimental work and bioinformatics on interesting topics learning from admirable people. I am really motivated to participate in new challenging projects, to achieve my goals I work hard and independently.
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
+* B.S. 
+  Genomic Sciences, National Autonomous University of Mexico (UNAM) 
+  Cuernavaca, Morelos, Mexico 
+  Grade 9.33/10 
+* H.S. 
+  Bachillerato General Istmeña 
+  Santo Domingo Tehuantepec, Oaxaca, Mexico Grade 10/10.
+  Best high school average. 
+ 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Undergrad research assistant at Alejandro Sanchez's Lab
+  Advisor: Fidel Alejandro Sánchez | Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
+  I worked in the regulatory profile of prostate cancer cell line under AZD5363 treatment. I worked with RNA seq data and I carried out the enrichment analysis, Cytoscape interaction network and transcription factor activity analysis. I used R and R Markdown to create an automated report that is reproducible and applicable in other projects.
+* Undergrad research assistant at Antônio Rezende's Lab
+   * DEC 2019 - JAN 2020
+     Advisor: Antônio Mauro Rezende | Instituto Aggeu Magalhães FIOCRUZ, Recife, Pernanbuco, Brazil.
+     In this project I worked with Illumina data, performed data quality with FastQC, aligned reads with STAR, and used edgeR and DESeq2 for differential expression analysis.
+* Undergrad research assistant at Alejandra Bravo's Lab
+  * SEP 2019 - DEC 2019
+   Advisor: Sabino Pacheco Guillén | Department of Molecular Microbiology, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
+   In this project I worked in the design of guide RNAs and in vitro tests for CRISPR-Cas9.
+  * MAR 2018 - JUN 2018
+  Advisor: Sabino Pacheco Guillén | Department of Molecular Microbiology, Institute of Biotechnology, UNAM, Cuernavaca, Morelos, Mexico.
+  Learning of molecular biology techniques (PCR, Gel electrophoresis, DNA extraction, Cloning of Cry genes and Protein purification).
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming skills
+  * ADVANCED LEVEL
+    R
+    Python
+    Linux commands
+  * BASIC LEVEL
+    Perl
+    C
+    PHP
+    SQL
+    
+* Bioinformatics skills
+  * Differential expression analysis (edgeR, DESeq2)
+  * Genome assembly and annotation
+  * Statistics and data visualization in R
+  * Variant analysis
+  * Bacterial typing
+  * Phylogenetics
+  * Structural bioinformatics
+  * Motif discovery and ChIPseq analysis
+ 
+Aditional Courses
+======
+ * Harvard, Data Science: Visualization
+ * Harvard, Data Science: Productivity Tools
+ * DTU, Whole genome sequencing of bacterial genomes - tools and application
+ * Johns Hopkins University (JHU), Introduction to Genomic Technologies
+ * JHU Statistics for Genomic Data Science
+ * JHU Bioconductor for Genomic Data Science
+ * JHU Python for Genomic Data Science
+ * JHU Algorithms for DNA Sequencing
+ * JHU Understanding Prostate Cancer
+ * JHU Genomic Data Science with Galaxy
+ * JHU Command Line Tools for Genomic Data Science
 
 Publications
 ======
