@@ -32,10 +32,10 @@ Work experience
 * Undergrad research assistant at Alejandro Sanchez's Lab
   * FEB 2020 - PRESENT
    
-      Advisor: Fidel Alejandro Sánchez \| Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
+     Advisor: Fidel Alejandro Sánchez \| Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
   
  <div style="text-align: justify">
-      I worked in the regulatory profile of prostate cancer cell line under AZD5363 treatment. I worked with RNA seq data and I carried out the enrichment analysis, Cytoscape interaction network and transcription factor activity analysis. I used R and R Markdown to create an automated report that is reproducible and applicable in other projects.
+     I worked in the regulatory profile of prostate cancer cell line under AZD5363 treatment. I worked with RNA seq data and I carried out the enrichment analysis, Cytoscape interaction network and transcription factor activity analysis. I used R and R Markdown to create an automated report that is reproducible and applicable in other projects.
   </div>
   
 * Undergrad research assistant at Antônio Rezende's Lab
@@ -50,15 +50,15 @@ Work experience
 
   * SEP 2019 - DEC 2019
 
-   Advisor: Sabino Pacheco Guillén \| Department of Molecular Microbiology, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
+     Advisor: Sabino Pacheco Guillén \| Department of Molecular Microbiology, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
    
-   In this project I worked in the design of guide RNAs and in vitro tests for CRISPR-Cas9.
+     In this project I worked in the design of guide RNAs and in vitro tests for CRISPR-Cas9.
  
   * MAR 2018 - JUN 2018
  
-  Advisor: Sabino Pacheco Guillén \| Department of Molecular Microbiology, Institute of Biotechnology, UNAM, Cuernavaca, Morelos, Mexico.
+     Advisor: Sabino Pacheco Guillén \| Department of Molecular Microbiology, Institute of Biotechnology, UNAM, Cuernavaca, Morelos, Mexico.
   
-  Learning of molecular biology techniques (PCR, Gel electrophoresis, DNA extraction, Cloning of Cry genes and Protein purification).
+     Learning of molecular biology techniques (PCR, Gel electrophoresis, DNA extraction, Cloning of Cry genes and Protein purification).
   
 Skills
 ======
@@ -106,14 +106,8 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}</ul> 
+ 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
