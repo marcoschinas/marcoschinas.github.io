@@ -30,11 +30,14 @@ Education
 Work experience
 ======
 * Undergrad research assistant at Alejandro Sanchez's Lab
+  * FEB 2020 - PRESENT
+   
+      Advisor: Fidel Alejandro Sánchez \| Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
   
-  Advisor: Fidel Alejandro Sánchez \| Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
-  <div style="text-align: justify">
-  I worked in the regulatory profile of prostate cancer cell line under AZD5363 treatment. I worked with RNA seq data and I carried out the enrichment analysis, Cytoscape interaction network and transcription factor activity analysis. I used R and R Markdown to create an automated report that is reproducible and applicable in other projects.
+ <div style="text-align: justify">
+      I worked in the regulatory profile of prostate cancer cell line under AZD5363 treatment. I worked with RNA seq data and I carried out the enrichment analysis, Cytoscape interaction network and transcription factor activity analysis. I used R and R Markdown to create an automated report that is reproducible and applicable in other projects.
   </div>
+  
 * Undergrad research assistant at Antônio Rezende's Lab
 
    * DEC 2019 - JAN 2020
