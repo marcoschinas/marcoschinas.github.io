@@ -13,7 +13,7 @@ Profile
 ======
 <div style="text-align: justify">
 I am a specialist in Genomic Sciences, I have guided myself to acquire skills in experimental work and bioinformatics on interesting topics learning from admirable people. I am really motivated to participate in new challenging projects, to achieve my goals I work hard and independently.
-
+</div>
 Education
 ======
 
@@ -31,9 +31,9 @@ Work experience
 * Undergrad research assistant at Alejandro Sanchez's Lab
   
   Advisor: Fidel Alejandro Sánchez | Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
-  
+  <div style="text-align: justify">
   I worked in the regulatory profile of prostate cancer cell line under AZD5363 treatment. I worked with RNA seq data and I carried out the enrichment analysis, Cytoscape interaction network and transcription factor activity analysis. I used R and R Markdown to create an automated report that is reproducible and applicable in other projects.
-  
+  </div>
 * Undergrad research assistant at Antônio Rezende's Lab
 
    * DEC 2019 - JAN 2020
@@ -119,4 +119,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-</div>
+
