@@ -63,17 +63,22 @@ Work experience
 Skills
 ======
 * Programming skills
-  * ADVANCED LEVEL
+  * **ADVANCED LEVEL**
 
     R
+    
     Python
+    
     Linux commands
     
-  * BASIC LEVEL
+  * **BASIC LEVEL**
 
     Perl
+    
     C
+    
     PHP
+    
     SQL
     
 * Bioinformatics skills
