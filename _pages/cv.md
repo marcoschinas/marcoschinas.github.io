@@ -14,9 +14,9 @@ Profile
 <div style="text-align: justify">
 I am a specialist in Genomic Sciences, I have guided myself to acquire skills in experimental work and bioinformatics on interesting topics learning from admirable people. I am really motivated to participate in new challenging projects, to achieve my goals I work hard and independently.
 </div>
+
 Education
 ======
-
 * B.S. 
   Genomic Sciences, National Autonomous University of Mexico (UNAM) 
   Cuernavaca, Morelos, Mexico 
