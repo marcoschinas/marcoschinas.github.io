@@ -17,6 +17,7 @@ I am a specialist in Genomic Sciences, I have guided myself to acquire skills in
 
 Education
 ======
+
 * B.S. 
   Genomic Sciences, National Autonomous University of Mexico (UNAM) 
   Cuernavaca, Morelos, Mexico 
@@ -30,7 +31,7 @@ Work experience
 ======
 * Undergrad research assistant at Alejandro Sanchez's Lab
   
-  Advisor: Fidel Alejandro Sánchez | Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
+  Advisor: Fidel Alejandro Sánchez \| Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
   <div style="text-align: justify">
   I worked in the regulatory profile of prostate cancer cell line under AZD5363 treatment. I worked with RNA seq data and I carried out the enrichment analysis, Cytoscape interaction network and transcription factor activity analysis. I used R and R Markdown to create an automated report that is reproducible and applicable in other projects.
   </div>
@@ -38,7 +39,7 @@ Work experience
 
    * DEC 2019 - JAN 2020
   
-     Advisor: Antônio Mauro Rezende | Instituto Aggeu Magalhães FIOCRUZ, Recife, Pernanbuco, Brazil.
+     Advisor: Antônio Mauro Rezende \| Instituto Aggeu Magalhães FIOCRUZ, Recife, Pernanbuco, Brazil.
      
      In this project I worked with Illumina data, performed data quality with FastQC, aligned reads with STAR, and used edgeR and DESeq2 for differential expression analysis.
      
@@ -46,13 +47,13 @@ Work experience
 
   * SEP 2019 - DEC 2019
 
-   Advisor: Sabino Pacheco Guillén | Department of Molecular Microbiology, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
+   Advisor: Sabino Pacheco Guillén \| Department of Molecular Microbiology, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
    
    In this project I worked in the design of guide RNAs and in vitro tests for CRISPR-Cas9.
  
   * MAR 2018 - JUN 2018
  
-  Advisor: Sabino Pacheco Guillén | Department of Molecular Microbiology, Institute of Biotechnology, UNAM, Cuernavaca, Morelos, Mexico.
+  Advisor: Sabino Pacheco Guillén \| Department of Molecular Microbiology, Institute of Biotechnology, UNAM, Cuernavaca, Morelos, Mexico.
   
   Learning of molecular biology techniques (PCR, Gel electrophoresis, DNA extraction, Cloning of Cry genes and Protein purification).
   
