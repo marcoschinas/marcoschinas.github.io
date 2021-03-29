@@ -11,21 +11,27 @@ redirect_from:
 
 Profile
 ======
-<div style="text-align: justify">
+    <div style="text-align: justify">
     I am a specialist in Genomic Sciences, I have guided myself to acquire skills in experimental work and bioinformatics on interesting topics learning from admirable people. I am really motivated to participate in new challenging projects, to achieve my goals I work hard and independently.
-</div>
+    </div>
 
 
 Education
 ======
 
 * B.S. 
-  Genomic Sciences, National Autonomous University of Mexico (UNAM) 
+  
+  Genomic Sciences, National Autonomous University of Mexico (UNAM)
+  
   Cuernavaca, Morelos, Mexico 
+  
   Grade 9.33/10 
 * H.S. 
+  
   Bachillerato General Istmeña 
+  
   Santo Domingo Tehuantepec, Oaxaca, Mexico Grade 10/10.
+  
   Best high school average. 
  
 Work experience
