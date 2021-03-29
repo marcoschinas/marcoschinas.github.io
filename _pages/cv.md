@@ -29,34 +29,51 @@ Education
 Work experience
 ======
 * Undergrad research assistant at Alejandro Sanchez's Lab
+  
   Advisor: Fidel Alejandro Sánchez | Sequencing and Bioinformatics Unit, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
+  
   I worked in the regulatory profile of prostate cancer cell line under AZD5363 treatment. I worked with RNA seq data and I carried out the enrichment analysis, Cytoscape interaction network and transcription factor activity analysis. I used R and R Markdown to create an automated report that is reproducible and applicable in other projects.
+  
 * Undergrad research assistant at Antônio Rezende's Lab
+
    * DEC 2019 - JAN 2020
+  
      Advisor: Antônio Mauro Rezende | Instituto Aggeu Magalhães FIOCRUZ, Recife, Pernanbuco, Brazil.
+     
      In this project I worked with Illumina data, performed data quality with FastQC, aligned reads with STAR, and used edgeR and DESeq2 for differential expression analysis.
+     
 * Undergrad research assistant at Alejandra Bravo's Lab
+
   * SEP 2019 - DEC 2019
+
    Advisor: Sabino Pacheco Guillén | Department of Molecular Microbiology, Institute of Biotechnology UNAM, Cuernavaca, Morelos, Mexico.
+   
    In this project I worked in the design of guide RNAs and in vitro tests for CRISPR-Cas9.
+ 
   * MAR 2018 - JUN 2018
+ 
   Advisor: Sabino Pacheco Guillén | Department of Molecular Microbiology, Institute of Biotechnology, UNAM, Cuernavaca, Morelos, Mexico.
+  
   Learning of molecular biology techniques (PCR, Gel electrophoresis, DNA extraction, Cloning of Cry genes and Protein purification).
   
 Skills
 ======
 * Programming skills
   * ADVANCED LEVEL
+
     R
     Python
     Linux commands
+    
   * BASIC LEVEL
+
     Perl
     C
     PHP
     SQL
     
 * Bioinformatics skills
+
   * Differential expression analysis (edgeR, DESeq2)
   * Genome assembly and annotation
   * Statistics and data visualization in R
@@ -68,6 +85,7 @@ Skills
  
 Aditional Courses
 ======
+
  * Harvard, Data Science: Visualization
  * Harvard, Data Science: Productivity Tools
  * DTU, Whole genome sequencing of bacterial genomes - tools and application
