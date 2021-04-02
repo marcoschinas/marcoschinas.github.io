@@ -30,9 +30,9 @@ Education
   
   Bachillerato General Istmeña 
   
-  Santo Domingo Tehuantepec, Oaxaca, Mexico Grade 10/10.
+  Santo Domingo Tehuantepec, Oaxaca, Mexico 
   
-  Best high school average. 
+  Grade 10/10. Best high school average. 
  
 Work experience
 ======
@@ -70,22 +70,17 @@ Skills
 ======
 * **Programming skills**
   * **ADVANCED LEVEL**
-
-    R
-    
-    Python
-    
-    Linux commands
+ 
+   * R 
+   * Python
+   * Linux commands
     
   * **BASIC LEVEL**
-
-    Perl
-    
-    C
-    
-    PHP
-    
-    SQL
+ 
+   * Perl
+   * C
+   * PHP
+   * SQL
     
 * **Bioinformatics skills**
 
@@ -113,6 +108,7 @@ Aditional Courses
  * JHU Genomic Data Science with Galaxy
  * JHU Command Line Tools for Genomic Data Science
 
+```{r eval=FALSE, include=FALSE}
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -128,4 +124,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
+```
