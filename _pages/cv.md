@@ -108,20 +108,20 @@ Aditional Courses
  * JHU Genomic Data Science with Galaxy
  * JHU Command Line Tools for Genomic Data Science
 
-```{r eval=FALSE, include=FALSE}
+<!--
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> 
- 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-```
+-->
+
+
