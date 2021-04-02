@@ -71,16 +71,16 @@ Skills
 * **Programming skills**
   * **ADVANCED LEVEL**
  
-   * R 
-   * Python
-   * Linux commands
+    * R 
+    * Python
+    * Linux commands
     
   * **BASIC LEVEL**
  
-   * Perl
-   * C
-   * PHP
-   * SQL
+    * Perl
+    * C
+    * PHP
+    * SQL
     
 * **Bioinformatics skills**
 
