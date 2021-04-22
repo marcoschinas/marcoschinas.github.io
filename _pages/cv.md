@@ -13,6 +13,7 @@ Profile
 ======
 <div style="text-align: justify">
     I am a specialist in Genomic Sciences, I have guided myself to acquire skills in experimental work and bioinformatics on interesting topics learning from admirable people. I am really motivated to participate in new challenging projects, to achieve my goals I work hard and independently.
+  
 </div>
 
 
@@ -23,7 +24,7 @@ Education
   
   Genomic Sciences, National Autonomous University of Mexico (UNAM)
   
-  Cuernavaca, Morelos, Mexico 
+  Cuernavaca, Morelos, Mexico. [Impact of LCG graduates on research.](https://twitter.com/areyesq/status/1166442693402038272)
   
   Grade 9.33/10 
 * H.S. 
@@ -107,6 +108,7 @@ Aditional Courses
  * [JHU Understanding Prostate Cancer](https://coursera.org/share/11216a61c659c65c4c7da90a4cc1cb45)
  * [JHU Genomic Data Science with Galaxy](https://coursera.org/share/d583c92da41e2a2c195dd2e7d1874a8b)
  * [JHU Command Line Tools for Genomic Data Science](https://coursera.org/share/9a7c4b3a9844181603ad6801418502eb)
+ * [Coursera: Using Shiny to Plot Differential Gene Expression](https://coursera.org/share/b3a1075a62f525cc45431abc12a21426)
 
 <!--
 Publications
