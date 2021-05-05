@@ -16,6 +16,7 @@ Profile
   
 </div>
 <br/><br/>
+
 Education
 ======
 
