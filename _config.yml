@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Marcos Chiñas Hernández"
   avatar           : "Me.jpeg"
-  bio              : "Genomics science student at LCG UNAM"
-  location         : "Cuernavaca, México"
+  bio              : "Genomics scientist"
+  location         : "Boston, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chmarcos"
+  github           : "marcoschinas"
   google_plus      :
   keybase          :
   instagram        :
