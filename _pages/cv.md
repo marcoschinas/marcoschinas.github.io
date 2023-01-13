@@ -9,12 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
-# Marcos Chiñas Hernández
-Division of Immunology,  
+Division of Immunology,
+
 Boston Children’s Hospital, 
+
 Karp Family Building, 
+
 Boston, MA 02115, USA,
+
 +1 6174127513
+
 marcoschdez37@gmail.com
 
 As a genomic scientist, my expertise allows me to integrate biology, computational analysis, and statistics to solve problems and understand complex diseases. I am motivated to participate in challenging projects. Specific fields of interest include computational biology, multi-omics, immunology, and cancer.
@@ -22,6 +26,7 @@ As a genomic scientist, my expertise allows me to integrate biology, computation
 ## Education
 
 - **2017 - Sep 2021**
+
 National Autonomous University of Mexico (UNAM)   Grade 9.4/10 
 Center for Genomic Sciences, Cuernavaca, México
 B.Sc. Genomics
@@ -31,6 +36,7 @@ International assessment
 ## Research Work Experience
 
 - **Nov 2021 - Present** 
+
 Research Assistant at Boston Children's Hospital, Harvard Medical School
 Boston, MA, USA. 
 Advisor: Dr. Maria Gutierrez-Arcelus.
@@ -41,35 +47,50 @@ Analyze TCR-sequencing data to identify expanded t-cell receptor gene in multisy
 Created interactive web pages to visualize functional genomics datasets
 
 - **July 2021 – Sep 2021**
+
 Research Intern at Bellvitge Biomedical Research Institute  (IDIBELL) Barcelona, Catalonia, Spain.  Advisor: Dr. Álvaro Aytes.
 Transcriptomics of androgen receptor mutants PC3 cells
 
 - **Feb 2020 - Jun 2021**
+
 Research Intern at Sequencing and Bioinformatics Unit, Institute of Biotechnology, UNAM
 Cuernavaca, Morelos, Mexico. Advisor: Dr. Fidel Alejandro Sánchez Flores
 Transcriptome of LNCAP cells treated with AZD5363.
 
 - **Dec 2019 - Jan 2020**
+
 Research Intern at Instituto Aggeu Magalhães, FIOCRUZ
 Recife, Pernambuco, Brazil.  Advisor: Dr. Antônio Mauro Rezende.
 Transcriptome of Aedes aegypti colony chronically exposed to the larvicide Bti
 
 - **Sep 2019 - Dec 2019**
+
 Research Intern at Department of Molecular Microbiology, Institute of Biotechnology, UNAM
+
 Cuernavaca, Morelos, Mexico.  Advisor: Dr. Sabino Pacheco Guillén 
+
 Projects related to Bacillus thuringiensis and insecticidal proteins
+
 Guide RNA design and in vitro test for CRISPR-Cas9.
+
 Phylogenetics of Bacillus thuringiensis GR007.
+
 Learning molecular biology techniques: PCR, Gel electrophoresis, DNA extraction, Cloning of Cry genes, and protein purification.
 
 ## Technical Skills
 
 - Bioinformatics
+
 - Programming: R, Bash, Python. Git/GitHub. 
+
 - Bulk / single-cell RNA-seq: quality control, differential expression, pathway enrichment analysis.
+
 - Integration of transcriptomics with GWAS: colocalization analysis, identification of disease-relevant cell types score. 
+
 - TCR-sequencing. 
+
 - Genome assembly and annotation.
+
 - Data visualization, interactive and static web pages.
 
 ## ADDITIONAL COURSES
