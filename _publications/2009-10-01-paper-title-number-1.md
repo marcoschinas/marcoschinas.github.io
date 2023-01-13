@@ -11,4 +11,4 @@ citation: 'My name, ..., Your name. (2021). &quot; Our Paper.&quot; <i> Nature 1
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: My name, ..., Your name. (2021). " Our Paper " <i>Nature 1</i>. 1(1).
+Recommended citation: My name, ..., Your name. (2023). " Our Paper " <i>Nature 1</i>. 1(1).
