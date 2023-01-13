@@ -10,18 +10,11 @@ redirect_from:
 {% include base_path %}
 
 Division of Immunology,
-
 Boston Children’s Hospital, 
-
 Karp Family Building, 
-
 Boston, MA 02115, USA,
-
 +1 6174127513
-
 marcoschdez37@gmail.com
-
-As a genomic scientist, my expertise allows me to integrate biology, computational analysis, and statistics to solve problems and understand complex diseases. I am motivated to participate in challenging projects. Specific fields of interest include computational biology, multi-omics, immunology, and cancer.
 
 ## Education
 
