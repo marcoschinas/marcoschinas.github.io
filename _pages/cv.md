@@ -23,8 +23,7 @@ marcoschdez37@gmail.com
 National Autonomous University of Mexico (UNAM)   Grade 9.4/10 
 Center for Genomic Sciences, Cuernavaca, México
 B.Sc. Genomics
-Impact of graduates on research 
-International assessment
+
 
 ## Research Work Experience
 
